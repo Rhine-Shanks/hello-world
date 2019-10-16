@@ -5,3 +5,4 @@ just a repository
 2. 2019/10/15 this is modify in master on GitHub --远程
 3. 2019/10/15 this is modify in dev on GitHub --远程
 6. 2019/10/15 this is inorder to merge to staging branch --本地
+7. 2019/10/16 another day --本地
